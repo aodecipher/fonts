@@ -1,12 +1,12 @@
 @font-face {
     font-family: "Fira Code Nerd Font";
     font-style: normal;
-    font-weight: 500;
+    font-weight: 600;
     src: url('https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Retina/complete/Fura%20Code%20Retina%20Nerd%20Font%20Complete.ttf') format('truetype');
 }
 
 @font-face {
     font-family: "Fira Code Nerd Font";
-    font-weight: 800;
+    font-weight: 900;
     src: url('https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Bold/complete/Fura%20Code%20Bold%20Nerd%20Font%20Complete.ttf') format('truetype');
 }
